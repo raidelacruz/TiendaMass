@@ -1,0 +1,24 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs / Editores
+.vscode/
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Java / NetBeans (por si se compila modelojava localmente)
+modelojava/build/
+modelojava/dist/
+modelojava/nbproject/private/
