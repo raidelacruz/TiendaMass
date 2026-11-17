@@ -1,0 +1,32 @@
+
+1,Aceite,15.5,Abarrotes,40
+2,Arroz,12.0,Abarrotes,50
+3,Azúcar,6.0,Abarrotes,35
+4,Sal,2.0,Abarrotes,60
+5,Huevos,10.0,Abarrotes,120
+6,Harina,8.0,Abarrotes,45
+7,Pasta,6.5,Abarrotes,42
+8,Salsa de tomate,5.0,Abarrotes,30
+9,Café,18.0,Bebidas,20
+10,Gaseosa,8.0,Bebidas,55
+11,Agua mineral,2.5,Bebidas,80
+12,Jugo de naranja,6.0,Bebidas,33
+13,Atún,6.0,Conservas,25
+14,Galletas,6.5,Golosinas,40
+15,Shampoo,12.0,Higiene,27
+16,Cepillo dental,4.0,Higiene,60
+17,Papel higiénico,5.5,Higiene,90
+18,Arveja,7.0,Legumbres,38
+19,Jabón,5.5,Limpieza,50
+20,Detergente,7.0,Limpieza,47
+21,Leche,4.5,Lácteos,70
+22,Yogur,4.0,Lácteos,55
+23,Queso,12.5,Lácteos,22
+24,Mantequilla,10.5,Lácteos,18
+25,Pan,3.0,Panadería,60
+26,Levadura,2.5,Panadería,34
+27,Tomate,4.0,Vegetales,40
+28,Cebolla,3.0,Vegetales,45
+29,Lechuga,3.5,Vegetales,25
+30,Zanahoria,3.0,Vegetales,50
+

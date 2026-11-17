@@ -1,0 +1,6 @@
+PEDIDO
+1,Juan,Pérez,Ramírez
+30/11/2025 19:26
+12,Café,18.0,5
+FIN
+
